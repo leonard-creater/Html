@@ -1,0 +1,25 @@
+<html> 
+    <head>
+<style>
+    h2{
+        height:200px;
+        width:100px;
+        margin:4px;
+        border:3px solid greenyellow;
+        background-color:aquamarine;
+        padding: 2px;
+    }
+    h3{
+        height:200px;
+        width: 300px;
+        margin:40px;
+        border:0px solid greenyellow;
+        background-color:aquamarine;
+        padding: 0px;
+    }
+</style>
+    </head>
+    <body> 
+        <h2> My family</h2>
+        <h3>The Essuman's family</h3>
+    </body>
