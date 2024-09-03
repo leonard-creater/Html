@@ -1,0 +1,16 @@
+<html>
+    <head> 
+<style>
+#sit{
+    float:left;
+}
+#sits{
+    float:right;
+}
+</style>
+
+    </head>
+    <body> 
+<img id="sit" src="Capture1.PNG" hegight="50" width="50">
+<img id="sits" src="Capture1.PNG" hegight="50" width="50">
+    </body>
